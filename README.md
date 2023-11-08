@@ -31,3 +31,7 @@ $ cd tree-1.7.0
 $ make
 $ cp tree ~/go/bin/
 ```
+
+
+## aircrask-ng
+/opt/homebrew/Cellar/aircrack-ng/1.7_1
